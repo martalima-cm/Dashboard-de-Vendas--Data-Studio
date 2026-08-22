@@ -73,7 +73,7 @@ Total Vendas, Média de Total Vendas e Contagem de Vendas do período selecionad
 
 4. **Formatação condicional fixa (destacar um "líder") pode conflitar com o destaque dinâmico do cross-filtering.** Se um gráfico tem uma regra fixa colorindo sempre o mesmo item (ex: Bahia sempre laranja) e ao mesmo tempo usa a cor de seleção dinâmica do clique, as duas cores se sobrepõem e confundem qual item está realmente selecionado. É preciso escolher um dos dois comportamentos.
 
-5. **Títulos com valores embutidos ficam desatualizados quando filtros são aplicados.** Um título como "Alimentos Lidera as Vendas com R$ 378,8 mil" é ótimo na visão padrão (sem filtro), mas ao aplicar filtros interativos o valor exibido nas barras muda e o texto do título não acompanha automaticamente — é uma limitação a se ter em mente ao usar esse padrão de título.
+5. **Títulos com valores embutidos ficam desatualizados quando filtros são aplicados.** Um título como "Alimentos Lidera as Vendas com R$ 378,8 mil" é ótimo na visão padrão (sem filtro), mas ao aplicar filtros interativos o valor exibido nas barras muda e o texto do título não acompanha automaticamente é uma limitação a se ter em mente ao usar esse padrão de título.
 
 ---
 
