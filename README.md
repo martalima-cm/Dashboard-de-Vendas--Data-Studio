@@ -2,7 +2,7 @@
 
 Dashboard interativo desenvolvido no Google Looker Studio (Data Studio) para análise de vendas de uma empresa fictícia, cobrindo o período de **dezembro/2024 a junho/2025**.
 
-🔗 **Link do dashboard:** https://datastudio.google.com/s/jMEgG1O0RME
+🔗 **Link do dashboard:** https://datastudio.google.com/s/vuSLqQ4XNXQ
 
 ---
 
