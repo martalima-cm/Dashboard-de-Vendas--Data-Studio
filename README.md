@@ -1,4 +1,4 @@
-# Dashboard de Análise de Vendas — Looker Studio
+# Dashboard de Análise de Vendas - Looker Studio
 
 Dashboard interativo desenvolvido no Google Looker Studio (Data Studio) para análise de vendas de uma empresa fictícia, cobrindo o período de **dezembro/2024 a junho/2025**.
 
